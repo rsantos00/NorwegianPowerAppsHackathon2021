@@ -13,35 +13,35 @@
 
 
 <p float="left">
-  <img src="/Challenges/1.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge1.gif" width="450" /> 
-  <img src="/Challenges/2.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge2.gif" width="450" />  
-  <img src="/Challenges/3.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge3.gif" width="450" /> 
-  <img src="/Challenges/4.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge4.gif" width="450" /> 
-  <img src="/Challenges/5.PNG" width="450" />
+  <img src="/Challenges/1.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge1.gif" width="400" /> 
+  <img src="/Challenges/2.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge2.gif" width="400" />  
+  <img src="/Challenges/3.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge3.gif" width="400" /> 
+  <img src="/Challenges/4.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge4.gif" width="400" /> 
+  <img src="/Challenges/5.PNG" width="400" />
   <br/>
-  <img src="/Challenges/6.PNG" width="450" />
+  <img src="/Challenges/6.PNG" width="400" />
   <br/>
-  <img src="/Challenges/7.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge7.gif" width="450" /> 
+  <img src="/Challenges/7.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge7.gif" width="400" /> 
   
-  <img src="/Challenges/8.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge8.gif" width="450" /> 
-  <img src="/Challenges/9.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge9.gif" width="450" /> 
-  <img src="/Challenges/10.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge10.gif" width="450" />   
-  <img src="/Challenges/11.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge11.gif" width="450" /> 
-  <img src="/Challenges/12.PNG" width="450" />
+  <img src="/Challenges/8.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge8.gif" width="400" /> 
+  <img src="/Challenges/9.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge9.gif" width="400" /> 
+  <img src="/Challenges/10.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge10.gif" width="400" />   
+  <img src="/Challenges/11.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge11.gif" width="400" /> 
+  <img src="/Challenges/12.PNG" width="400" />
   <br/>
-  <img src="/Challenges/13.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge13.gif" width="450" /> 
-  <img src="/Challenges/14.PNG" width="450" />
-  <img src="/Challenges/HighLights/Challenge14.gif" width="450" /> 
+  <img src="/Challenges/13.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge13.gif" width="400" /> 
+  <img src="/Challenges/14.PNG" width="400" />
+  <img src="/Challenges/HighLights/Challenge14.gif" width="400" /> 
 </p>
 
 # Solutions highlights
