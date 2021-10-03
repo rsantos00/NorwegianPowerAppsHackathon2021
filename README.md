@@ -44,5 +44,26 @@
   <img src="/Challenges/HighLights/Challenge14.gif" width="400" /> 
 </p>
 
-# Solutions highlights
+# Solutions Demos
+
+## 1-Office App - OBOS
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" type="video/mp4">    
+  </video>
+</figure>
+
+
+
+<p float="left">
+  <img src="/Challenges/1.PNG" width="400" />
+</p>
+
+<video src="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" width=180 />  
+
+
+
+ 
+
 
