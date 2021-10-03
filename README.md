@@ -53,23 +53,26 @@
 </p>
 
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Bouvet Norge AS/Challenge1.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide1.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Visolit/Challenge1.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide2.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge1OfficeRoom.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide3.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/LogiqApps AS/Challenge 1.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide4.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Columbus/Challange1.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide5.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/KPMG/Challenge1.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide6.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Delfosti/Challenge 1.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide13.PNG" width="200" />
   </a>
 </p>
 
@@ -80,10 +83,10 @@
 </p>
 
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Delfosti/Challenge 2.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide7.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Axdata As/Challenge2.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide8.PNG" width="200" />
   </a> 
 </p>
@@ -95,13 +98,13 @@
 </p>
 
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/LogiqApps AS/Challenge 3.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide9.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Knowit/Challenge3.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide10.PNG" width="200" />
   </a> 
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Cegal AS/Challenge3.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide11.PNG" width="200" />
   </a> 
 </p>
@@ -112,11 +115,11 @@
   <img src="/Challenges/4.PNG" width="400" />  
 </p>
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Cegal AS/Challenge3.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide11.PNG" width="200" />
   </a> 
   
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/LogiqApps AS/Challenge 4.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide12.PNG" width="200" />
   </a>
   
@@ -128,6 +131,11 @@
 <p float="left">
   <img src="/Challenges/6.PNG" width="400" />  
 </p>
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Delfosti/Challenge 6.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide7.PNG" width="200" />
+  </a>  
+</p>
 
 
 ## 7-Price comparison - SparKjop
@@ -137,7 +145,7 @@
 </p>
 
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Delfosti/Challenge 7.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide13.PNG" width="200" />
   </a>
   <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
@@ -152,10 +160,10 @@
 </p>
 
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Avanade/Challenge8.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide15.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/FindmoreSolutions/Challenge8.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide16.PNG" width="200" />
   </a> 
 </p>
@@ -166,12 +174,9 @@
   <img src="/Challenges/9.PNG" width="400" />  
 </p>
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Bouvet Norge AS/Challenge9.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide17.PNG" width="200" />
-  </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
-    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide18.PNG" width="200" />
-  </a> 
+  </a>   
 </p>
 
 ## 10-Organization Information - BKK
@@ -180,11 +185,11 @@
   <img src="/Challenges/10.PNG" width="400" />  
 </p>
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
-    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide19.PNG" width="200" />
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Bouvet Norge AS/Challenge10.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide18.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
-    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide20.PNG" width="200" />
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Itera ASA/Power App Hackathon.pptx" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide19.PNG" width="200" />
   </a> 
 </p>
 
@@ -195,14 +200,14 @@
 </p>
 
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
-    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide21.PNG" width="200" />
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Amesto Firstpoint/Challenge11.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide20.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
-    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide22.PNG" width="200" />
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Xpand IT/Challenge11.pptx" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide21.PNG" width="200" />
   </a> 
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
-    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide23.PNG" width="200" />
+  <a href="https://hackathons.blob.core.windows.net/videos2021/LogiqApps AS/Challenge 11.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide22.PNG" width="200" />
   </a> 
 </p>
 
@@ -212,19 +217,19 @@
   <img src="/Challenges/13.PNG" width="400" />  
 </p>
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Bouvet Norge AS/Challenge13.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide23.PNG" width="200" />
   </a>
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Avicenna/Challence 13.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide24.PNG" width="200" />
   </a> 
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Capgemini/Challenge13.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide25.PNG" width="200" />
   </a> 
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge13Lunchreservation.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide26.PNG" width="200" />
   </a> 
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Knowit/Challenge13.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide27.PNG" width="200" />
   </a> 
 </p>
@@ -234,7 +239,7 @@
   <img src="/Challenges/14.PNG" width="400" />  
 </p>
 <p float="left">
-  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/Bouvet Norge AS/Challenge14.mp4" > 
     <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide28.PNG" width="200" />
   </a>  
 </p>
