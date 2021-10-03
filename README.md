@@ -48,22 +48,194 @@
 
 ## 1-Office App - OBOS
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" type="video/mp4">    
-  </video>
-</figure>
-
-
-
 <p float="left">
-  <img src="/Challenges/1.PNG" width="400" />
+  <img src="/Challenges/1.PNG" width="400" />  
 </p>
 
-<video src="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" width=180 />  
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide1.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide2.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide3.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide4.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide5.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide6.PNG" width="200" />
+  </a>
+</p>
+
+## 2-Invoice generation - OBOS
+
+<p float="left">
+  <img src="/Challenges/2.PNG" width="400" />  
+</p>
+
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide7.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide8.PNG" width="200" />
+  </a> 
+</p>
+
+## 3-Picture Viewer - StatsBygg
+
+<p float="left">
+  <img src="/Challenges/4.PNG" width="400" />  
+</p>
+
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide9.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide10.PNG" width="200" />
+  </a> 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide11.PNG" width="200" />
+  </a> 
+</p>
+
+## 4-Hierarchical data modeler - Aker Solutions
+
+<p float="left">
+  <img src="/Challenges/4.PNG" width="400" />  
+</p>
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide11.PNG" width="200" />
+  </a> 
+  
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide12.PNG" width="200" />
+  </a>
+  
+</p>
 
 
+## 6-Wireframe Modeller - Aker Solutions
 
- 
+<p float="left">
+  <img src="/Challenges/6.PNG" width="400" />  
+</p>
 
+
+## 7-Price comparison - SparKjop
+
+<p float="left">
+  <img src="/Challenges/7.PNG" width="400" />  
+</p>
+
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide13.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide14.PNG" width="200" />
+  </a> 
+</p>
+
+## 8-Vistor Announcement - WW
+
+<p float="left">
+  <img src="/Challenges/8.PNG" width="400" />  
+</p>
+
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide15.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide16.PNG" width="200" />
+  </a> 
+</p>
+
+## 9-Worker Tracker - BKK
+
+<p float="left">
+  <img src="/Challenges/9.PNG" width="400" />  
+</p>
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide17.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide18.PNG" width="200" />
+  </a> 
+</p>
+
+## 10-Organization Information - BKK
+
+<p float="left">
+  <img src="/Challenges/10.PNG" width="400" />  
+</p>
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide19.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide20.PNG" width="200" />
+  </a> 
+</p>
+
+## 11-Graduates Onboarding - Equinor
+
+<p float="left">
+  <img src="/Challenges/11.PNG" width="400" />  
+</p>
+
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide21.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide22.PNG" width="200" />
+  </a> 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide23.PNG" width="200" />
+  </a> 
+</p>
+
+## 13-Lunch reservation - Microsoft
+
+<p float="left">
+  <img src="/Challenges/13.PNG" width="400" />  
+</p>
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide23.PNG" width="200" />
+  </a>
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide24.PNG" width="200" />
+  </a> 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide25.PNG" width="200" />
+  </a> 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide26.PNG" width="200" />
+  </a> 
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide27.PNG" width="200" />
+  </a> 
+</p>
+## 14- Store tasks - Microsoft
+
+<p float="left">
+  <img src="/Challenges/14.PNG" width="400" />  
+</p>
+<p float="left">
+  <a href="https://hackathons.blob.core.windows.net/videos2021/AkerSolutions/Challenge7PriceComparison.mp4" > 
+    <img src="/Challenges/HighLights/ChallangesHighlisgts/Slide28.PNG" width="200" />
+  </a>  
+</p>
 
