@@ -94,7 +94,7 @@
 ## 3-Picture Viewer - StatsBygg
 
 <p float="left">
-  <img src="/Challenges/4.PNG" width="400" />  
+  <img src="/Challenges/3.PNG" width="400" />  
 </p>
 
 <p float="left">
